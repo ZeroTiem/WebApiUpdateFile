@@ -14,5 +14,10 @@ namespace WebApiUpdateFile.Controllers
 
             return View();
         }
+
+        public ActionResult UploadFile()
+        {
+            return View();
+        }
     }
 }
